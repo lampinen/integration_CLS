@@ -6,9 +6,7 @@ This code was written by James L. McClelland, except for the material for part 1
 
 This code has been tested on Ubuntu 18.04 with:
 
-- [Jupyter](https://jupyter.org/) 4.4.0
-..- with Python 2.7 kernel.
-
+- [Jupyter](https://jupyter.org/) 4.4.0 with IPython 2.7 kernel.
 - [tensorflow-gpu](https://www.tensorflow.org/) version 1.4.0
 - [matplotlib](https://matplotlib.org/) version 2.1.1
 - [numpy](https://numpy.org/) version 1.13.3
