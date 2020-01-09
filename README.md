@@ -1,4 +1,4 @@
-# Integration of New Information in Memory: New Insights from a Complementary Learning Systems Perspectiv
+# Integration of New Information in Memory: New Insights from a Complementary Learning Systems Perspective
 
 This repository contains code for deriving the results in our paper on Integration of New Information in Memory.
 
@@ -8,7 +8,7 @@ This code has been tested on Ubuntu 18.04 with:
 
 - [Jupyter](https://jupyter.org/) 4.4.0
     -- with Python 2.7 kernel.
-- [tensorflow-gpu](ihttps://www.tensorflow.org/) version 1.4.0
+- [tensorflow-gpu](https://www.tensorflow.org/) version 1.4.0
 - [matplotlib](https://matplotlib.org/) version 2.1.1
 - [numpy](https://numpy.org/) version 1.13.3
 - [scipy](https://scipy.org/) version 1.0.0
